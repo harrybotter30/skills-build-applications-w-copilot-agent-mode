@@ -1,4 +1,6 @@
-# Build Applications with GitHub Copilot Agent Mode
+python manage.py makemigrations
+python manage.py migrate
+python manage.py populate_db# Build Applications with GitHub Copilot Agent Mode
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
